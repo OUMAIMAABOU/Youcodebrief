@@ -125,18 +125,9 @@ display: flex;
 
     
   }
-  button a{
-    text-decoration: none;
-  }
-
+    button a{
    
-    background-color: #8bc6e9;
-    color: rgb(117, 114, 114);
-    padding: 10px 20px;
-    border: none;
-    border-radius: 12px;
-    cursor: pointer;
-    font-size: 20px;
+  text-decoration: none;
 
     
   }
