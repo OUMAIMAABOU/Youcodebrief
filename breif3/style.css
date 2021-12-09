@@ -101,6 +101,7 @@ display: flex;
     border:  solid #ccc;
     border-radius: 12px;
     box-sizing: border-box;
+    
   }
   input[type=submit] {
     width: 50%;
@@ -112,7 +113,7 @@ display: flex;
     cursor: pointer;
   }
 
-  button[type=button] {
+  button{
    
     background-color: #8bc6e9;
     color: rgb(117, 114, 114);
@@ -121,6 +122,22 @@ display: flex;
     border-radius: 12px;
     cursor: pointer;
     font-size: 20px;
+
+    
+  }
+  button a{
+    text-decoration: none;
+  }
+
+   
+    background-color: #8bc6e9;
+    color: rgb(117, 114, 114);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    font-size: 20px;
+
     
   }
   .ser{
@@ -128,6 +145,7 @@ display: flex;
       padding-left: 900px;
 
   }
+
   .borderlogin{
     width: 50%;
     height: 50%;
@@ -140,10 +158,14 @@ display: flex;
  
    
 }
+
 div p {
     
     color: white;
     font-size: 30px;
     font-weight: 900;
 }
+
+
+
 
